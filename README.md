@@ -59,7 +59,7 @@ simulation_dashboard/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/simulation-dashboard.git
+git clone https://github.com/pranavpatil2316/Dice_simulation
 cd simulation-dashboard
 ````
 
